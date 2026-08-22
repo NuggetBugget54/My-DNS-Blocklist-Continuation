@@ -4,6 +4,9 @@ https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 Adaway Default Blocklist: 
 https://adaway.org/hosts.txt
 
+No Google Blocklist:
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
+
 Dandelion Sprout's Anti-malware Blocklist: 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 
