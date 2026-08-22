@@ -1,3 +1,5 @@
+*cloudfront
+*doubleclick
 *provision
 *oscp
 *ads
@@ -316,6 +318,17 @@ drive.com
 *play.
 *new-
 *sentry
+||detectportal.brave-http-only.com^$important
+||frontdoor.collections.commerce.microsoft.com^$important
+||beige.xboxservices.com^$important
+||push.services.mozilla.com^$important
+||windows.msn.cn^$important
+||windows.msn.cn.eo.dnse4.com^$important
+||go-updater.brave.com^$important
+||weather-analytics-events.apple.com^$important
+||windows.msn.com^$important
+||api.revenuecat.com^$important
+||platform.pubadx.one^$important
 ||datahoghq.com^
 ||play.itunes.apple.com^
 ||metrics.icloud.com^$important
