@@ -233,10 +233,9 @@ hackers-1.appspot.com$important
 @@||c0.rbxcdn.com^$important
 *api-token$important
 *apitoken$important
-@@||silverbullet-external-ats.itunes.apple.com^$important
-@@||init.itunes.apple.com^$important
-&&||xp.apple.com^$important
-@@||itunes.apple.com^$important
+@@||silverbullet-external-ats.itunes.apple.com$important
+@@||init.itunes.apple.com$important
+@@||itunes.apple.com$important
 @@||bag.itunes.apple.com^$important
 @@||xp.apple.com^$important
 @@||weather-data.apple.com^$important
